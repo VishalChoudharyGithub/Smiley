@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "133757777313",
+    "firebase_url": "https://faceml-84c42.firebaseio.com",
+    "project_id": "faceml-84c42",
+    "storage_bucket": "faceml-84c42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133757777313:android:16d6e1ea93f8063e4587e0",
+        "android_client_info": {
+          "package_name": "com.hack.faceml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133757777313-4g94mgp1o7ftrhqiemknuajkjn9s04im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjaFR6APP-GpK_pC21wlJkG9J1XMhOZgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133757777313-4g94mgp1o7ftrhqiemknuajkjn9s04im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
